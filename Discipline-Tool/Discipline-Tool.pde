@@ -2,12 +2,17 @@
     26 Characters, 12 Disciplins
     
     Interactive experience which reveals each characters' design specialities. 
-    Created for 26 Characters (@26chars) as part of The Degree Show (@thedegreeshow) by James Greenaway (@jvgreenaway)
+    Created for 26 Characters (@26chars) as part of The Degree Show (@thedegreeshow) by James Greenaway (@jvgreenaway).
 
     Controls:
     - Mouse position calculates weighted score relative to corner tags
     - Mouse clicking in each corner steps tags
     - Touch OSC Midi Controller interface is included
+
+    Dependancies:
+    - Toxlibs: http://toxiclibs.org/
+    - Ani: http://www.looksgood.de/libraries/Ani/
+    - The Midi Bus: http://www.smallbutdigital.com/themidibus.php
  */
 
 import java.util.*;
