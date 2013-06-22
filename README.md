@@ -10,3 +10,5 @@ Built with [Proccessing](http://www.processing.org/) and [TouchOSC](http://hexle
 ![Close up of the projection](http://asset-bucket.s3.amazonaws.com/26-characters/12-Disciplins-images/12-disciplins-screen.jpg)
 
 ![Close up of the TouchOSC interface running on the iPad](http://asset-bucket.s3.amazonaws.com/26-characters/12-Disciplins-images/12-disciplins-controller.jpg)
+
+Photos by [Calum Hale](http://www.calumhale.com/).
